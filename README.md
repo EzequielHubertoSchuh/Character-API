@@ -22,7 +22,7 @@ Spring Boot-based project to reimplement characters endpoints from Marvel API.
 
  - Clone repository
   ```
-  $ git clone https://github.com/ezequielhubertoschuh/marvel-backend-challenge.git
+  $ git clone https://github.com/EzequielHubertoSchuh/Character-API.git
   ```
   - Build
   ```
