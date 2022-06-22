@@ -1,6 +1,6 @@
 ## Marvel Backend Challenge
 
-Technical challenge submitted to Dextra.
+Technical challenge.
 Spring Boot-based project to reimplement characters endpoints from Marvel API.
 
   - /v1/public/characters
