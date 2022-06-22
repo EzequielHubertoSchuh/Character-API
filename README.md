@@ -11,7 +11,7 @@ Spring Boot-based project to reimplement characters endpoints from Marvel API.
   - /v1/public/characters/{characterId}/stories
 
 
-[![Build Status](https://app.travis-ci.com/EzequielHubertoSchuh/Character-API.svg?branch=main)](https://travis-ci.org/ezequielschuh/marvel-backend-challenge)  [![codecov](https://codecov.io/gh/ezequielschuh/marvel-backend-challenge/branch/master/graph/badge.svg?token=XK3Df60hsS)](https://codecov.io/gh/ezequielschuh/marvel-backend-challenge)
+[![Build Status]([![Build Status](https://app.travis-ci.com/EzequielHubertoSchuh/Character-API.svg?branch=main)](https://app.travis-ci.com/EzequielHubertoSchuh/Character-API))  [![codecov](https://codecov.io/gh/ezequielschuh/marvel-backend-challenge/branch/master/graph/badge.svg?token=XK3Df60hsS)](https://codecov.io/gh/ezequielschuh/marvel-backend-challenge)
 
 ## Prerequisites
   - Maven 3
